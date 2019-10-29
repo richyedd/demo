@@ -1,0 +1,16 @@
+body{
+	background-image: url(christicon.JPG)
+}
+h2, p {
+	color: #E9BC25;
+	text-align: center;
+	border: 5px solid rgb(233, 188, 37)
+}
+p{
+	color: pink;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
+
